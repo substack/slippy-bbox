@@ -2,6 +2,10 @@
 
 calculate a bounding box for a [slippy map][] (x,y,zoom) coordinate
 
+implementation based on [this java code](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#Tile_bounding_box)
+
+[slippy map]: https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames
+
 # example
 
 ``` js

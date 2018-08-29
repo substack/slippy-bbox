@@ -1,0 +1,15 @@
+{
+  "name": "slippy-bbox",
+  "version": "1.0.0",
+  "description": "calculate a bounding box for a slippy map (x,y,zoom) coordinate",
+  "keywords": [
+    "slippy",
+    "geo",
+    "gis",
+    "mbtile",
+    "bbox",
+    "bounding box",
+    "coordinates",
+    "wsen"
+  ]
+}
